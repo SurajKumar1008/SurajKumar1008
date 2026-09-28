@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Suraj%20Kumar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=CSE%20Student&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Suraj%20Kumar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Development%20Student%20&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=SurajKumar1008">
